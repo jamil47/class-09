@@ -1,0 +1,233 @@
+/*============= header part start ===========*/
+.top-header{
+    padding: 10px;
+    background-color: #F0F2F4;
+}
+.icon a{
+    padding: 10px;
+}
+.menu{
+    padding: 20px;
+     background-color: #FFFFFF;
+}
+.menu-type a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    display: inline-block;
+}
+/*============= header part end ===========*/
+
+/*============= banner part start ===========*/
+.banner{
+    background: url(../img/banner.png)top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+}
+.banner-header{
+    text-align: center;
+}
+
+.banner-header h2{
+    color: white;
+    font-size: 36px;
+}
+.banner-header p{
+    color: white;
+    font-size: 20px;
+}
+.btn-cstm{
+    border-radius: 0px;
+    background-color: #F8CD53;
+    color: white;
+    font-size: 20px;
+}
+/*============= header part end ===========*/
+
+/*============= about part start ===========*/
+.about{
+    background: #FFFFFF;
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.underline{
+    border-bottom: 5px solid #424242;
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+.about-header{
+   padding-top: 40px;
+    text-align: center;
+}
+.about-header h4{
+    margin-top: 20px;
+}
+.about-header p{
+    font-size: 20px;
+}
+/*============= about part end ===========*/
+/*============= approch part start ===========*/
+.apporch{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background: #F3F3F3;
+}
+.bg{
+    background: #FFFFFF;
+    margin-top: 30px;
+}
+.one{
+   position: relative;
+}
+
+.img-content {
+    background: #DE2B24;
+    width: 90px;
+    height: 90px;
+    color: white;
+    border: 1px solid #fff;
+    position: absolute;
+    bottom: 70px;
+    left: 315px;
+}
+.two h2{
+    text-align: left;
+    padding-top: 54px;
+}
+.two p{
+    text-align: left;
+}
+
+.three{
+   position: relative;
+}
+
+.img-content1 {
+    background: #DE2B24;
+    width: 90px;
+    height: 90px;
+    color: white;
+    border: 1px solid #fff;
+    position: absolute;
+    bottom: 70px;
+    right: 315px;
+}
+.four h2{
+    text-align: left;
+    padding-top: 54px;
+}
+.four p{
+    text-align: left;
+}
+
+/*============= work part start ===========*/
+.work{
+    background: #DE2B24;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.work-header{
+   text-align: center;
+}
+.work-header h2{
+    color: white;
+}
+.work-header p{
+    color: white;
+}
+.underline2{
+    border-bottom: 5px solid #fff;
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+
+/*============= work part end ===========*/
+
+/*============= contact part start ===========*/
+.contact{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #1287BF;
+    text-align: center;
+}
+.contact-header i{
+    font-size: 20px;
+    padding-top: 10px;
+    color: white;
+}
+.contact-header h3{
+    color: white;
+}
+.contact-header p{
+    color: white;
+}
+.extra {
+    padding-top: 60px;
+}
+.extra p{
+    font-size: 13px;
+    color: #6A8391;
+}
+.form-head{
+   padding: 20px; 
+}
+
+.number{
+   padding-left: 100px;
+    background: #1287BF;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    margin-bottom: 10px
+}
+.name{
+    padding-left: 100px;
+    background: #1287BF;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    margin-bottom: 40px
+}
+/*============= contact part end ===========*/
+/*============= footer part start ===========*/
+.footer{
+    background: #2A2A2A;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.footer-header h2{
+    color: white;
+}
+.footer-header p{
+    color: white;
+}
+.footer-header a{
+    color: white;
+    background: #2A2A2A;
+    font-size: 40px;
+    padding: 10px;
+}
+.mail{
+   width: 100%;
+    background: #515151;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.btn-cstm3{
+    border-radius: 0px;
+    background-color: #2A2A2A;
+    color: white;
+    font-size: 15px;
+    border: 2px solid #fff;
+    margin-top: 30px;
+}
+
+/*============= fooetr part end ===========*/
